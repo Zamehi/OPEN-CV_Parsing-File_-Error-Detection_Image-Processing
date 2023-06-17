@@ -12,6 +12,8 @@ So, you said you enjoyed the previous assignment and learned much and more :). N
 You have to maintain the queue with a fixed size of 4. In which you will store the file name on the base of their priority. When the queue gets full and you need to delete the item from the queue, you will delete the least recently used item in the queue.
 When you start reading the file, you will check the file in the queue. If a file exists in the queue, print File Hit; else, File Fault. At the end of the program, you have to print the total number of hits and faults.
 4. Extracting the galaxies (Extend part of Assignment 1)
+5. ![Img1](https://github.com/Zamehi/Parsing-File_-Error-Detection/assets/129313428/4349f1dd-1c37-4fe1-9654-596295a028d0)
+
 In previous assignment you have learn the following things:
 1. Read the image.
 2. Altering the image.
@@ -23,3 +25,9 @@ Algorithm:
 So, you said you enjoyed the previous assignment and learned much and more :). Now, tell me about the number of galaxies in the picture. There are |src| \path |\src| galaxies in the image. |\paragraph|
 P a g e 4 | 7
 Find the starting point of the object. Starting point will the first pixel that is 255 and from this point the whole object originates. Each pixel has 8 neighbors. Top, bottom, left, right and 4 diagonal pixels. Not all pixels have same value. The focus of algorithm will be on those pixels which are 255 to find the whole object.
+![img_BFT3](https://github.com/Zamehi/Parsing-File_-Error-Detection/assets/129313428/140ff13c-95c6-4d5a-8dd5-3a5163772252)
+![img_DFT1](https://github.com/Zamehi/Parsing-File_-Error-Detection/assets/129313428/281dbbb3-40af-4d64-9537-0b662b4b657c)
+![img_DFT2](https://github.com/Zamehi/Parsing-File_-Error-Detection/assets/129313428/2a7b3e41-eec6-451f-a1ae-1b51195e937e)
+
+
+
